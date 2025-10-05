@@ -1,0 +1,12 @@
+{
+  "name": "youtube-itag-api",
+  "version": "1.0.0",
+  "description": "API to extract YouTube itag list.",
+  "main": "api/itag.js",
+  "scripts": {
+    "start": "node api/itag.js"
+  },
+  "dependencies": {
+    "ytdl-core": "^4.11.5"
+  }
+}
